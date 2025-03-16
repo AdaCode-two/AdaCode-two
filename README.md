@@ -1,7 +1,4 @@
-  ## Olá! Eu sou o AdaCode-two
-
-- 🔭 Em andamento
-- 🌱 Estudando Java
+  ## Olá! Eu sou o AdaCode
 
 
 <div style="display: inline_block"><br>
